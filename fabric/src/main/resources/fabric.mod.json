@@ -18,7 +18,7 @@
         "main": [
             {
                 "adapter": "kotlin",
-                "value": "com.example.examplemod.ExampleModKt::init"
+                "value": "com.breadmoirai.cookcraft.fabric.CookCraftKt::init"
             }
         ]
     },
@@ -37,4 +37,3 @@
         "another-mod": "*"
     }
 }
-  
